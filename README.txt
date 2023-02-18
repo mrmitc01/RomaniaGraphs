@@ -17,6 +17,7 @@ data - a folder containing the two datasets on Romanian cities:
 
 
 Compile the source code by typing the following at the prompt $:
+
 $ python romaniaGraphs.py
 
 Code is available upon request
